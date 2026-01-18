@@ -5,7 +5,7 @@ This project aims to predict the future price movements of cryptocurrencies (suc
 #Project Visualization
 Below is the visualization of the model's test performance and future predictions based on historical data:
 
-![Prediction Result](Figure_1.png)
+![Prediction Result](crypto_prediction/Figure_1.png)
 
 #Tech Stack
 This project is built with the most powerful libraries in the data science and AI ecosystem:
